@@ -19,4 +19,4 @@
 
 Блок схема в фале img в данном репозитории.
 
-![БлокСХема](https://github.com/vanyusha82228/FinalWork/raw/mian/img/blockdiagram.png)
+![БлокСХема](https://github.com/vanyusha82228/FinalWork/raw/mian/C:\Users\Иван\Desktop\гб\FinihRab\img\blockdiagram.png)
