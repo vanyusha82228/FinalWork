@@ -16,3 +16,18 @@ void ShowArrayString(string[] array)
 
     Console.WriteLine();
 }
+
+string[] ArrayChange(string[] array)
+{
+    string[] newArray = new string[array.Length];
+    int count=0;
+    for(int i=0;i<array.Length;i++)
+    {
+        if(array[i].Length<4)
+        {
+            newArray[count]=array[i];
+            count++;
+        }
+    }
+    return newArray;
+}
