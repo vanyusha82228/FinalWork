@@ -31,3 +31,12 @@ string[] ArrayChange(string[] array)
     }
     return newArray;
 }
+
+Console.Write("Input the length of the string array: ");
+int size = Convert.ToInt32(Console.ReadLine());
+
+
+string[] myArray =FillingFrrayOfStrings(size);
+ShowArrayString(myArray);
+
+ShowArrayString(ArrayChange(myArray));
