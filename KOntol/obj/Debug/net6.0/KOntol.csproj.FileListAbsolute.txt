@@ -1,0 +1,15 @@
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\bin\Debug\net6.0\KOntol.exe
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\bin\Debug\net6.0\KOntol.deps.json
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\bin\Debug\net6.0\KOntol.runtimeconfig.json
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\bin\Debug\net6.0\KOntol.dll
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\bin\Debug\net6.0\KOntol.pdb
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\obj\Debug\net6.0\KOntol.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\obj\Debug\net6.0\KOntol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\obj\Debug\net6.0\KOntol.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\obj\Debug\net6.0\KOntol.AssemblyInfo.cs
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\obj\Debug\net6.0\KOntol.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\obj\Debug\net6.0\KOntol.dll
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\obj\Debug\net6.0\refint\KOntol.dll
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\obj\Debug\net6.0\KOntol.pdb
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\obj\Debug\net6.0\KOntol.genruntimeconfig.cache
+C:\Users\Иван\Desktop\гб\FinihRab\KOntol\obj\Debug\net6.0\ref\KOntol.dll
